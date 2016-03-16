@@ -1,0 +1,6 @@
+en:
+  users:
+    user: "User"
+    headers:
+      name: "Name"
+      email: "Email"
