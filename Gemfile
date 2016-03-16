@@ -12,6 +12,7 @@ gem "sdoc", "~> 0.4.0", group: :doc
 gem "react-rails"
 gem "bootstrap-sass"
 gem "i18n-js", ">= 3.0.0.rc11"
+gem "bcrypt", "3.1.7"
 
 group :development, :test do
   gem "pry"
