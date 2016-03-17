@@ -4,3 +4,7 @@ en:
     headers:
       name: "Name"
       email: "Email"
+      role: "Role"
+      avatar: "Avatar"
+    actions:
+      sign_up: "Sign up"
